@@ -49,7 +49,7 @@ sap.ui.define([
 			var oTable = this.byId("tableCstPis");
 			var nIndex = oTable.getSelectedIndex();
 			var oViewModel = this.getModel("view");
-			
+			debugger;
 			oViewModel.setData({
 				titulo: "Editar CST - PIS",
 				codigoEdit: false,
