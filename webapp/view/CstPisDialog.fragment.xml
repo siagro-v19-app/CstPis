@@ -6,7 +6,7 @@
 		title="{view>/titulo}"
 		class="sapUiSmallMargin">
    	
-   		<VBox id="vBoxCstPisCofins" class="sapUiSmallMargin">
+   		<VBox id="vBoxCstPisCofins" class="sapUiSmallMargin sapUiSizeCompact">
    			<Label text="Código:" labelFor="codigo"/>
 			<Input value="{Codigo}" id="codigo" required="true" editable="{view>/codigoEdit}"/>
 			
