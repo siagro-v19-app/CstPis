@@ -27,7 +27,7 @@
 							<Toolbar>
 								<Title text="Lista de PIS"/>
 								<ToolbarSpacer/>
-								<SearchField placeholder="Pesquisar PIS..." width="30%" search="filtraPis"/>
+								<SearchField placeholder="Pesquisar código..." width="30%" search="filtraPis"/>
 							</Toolbar>
 						</t:toolbar>
 						<t:columns>
